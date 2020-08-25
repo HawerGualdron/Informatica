@@ -1,1 +1,1 @@
-# Introducción a la Informática - Grupo 3 - 2020
+# Repositorio para el almacenamiento de documentos de informatica
